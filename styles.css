@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background: blue;
+    margin: 0px;
+    font-family: "Raleway", sans-serif;
+}
+
+header {
+  border: solid 2px rgb(33, 20,  44);
+  padding: 20px;
+  font-size: 32px; 
+  color:burlywood;
+}
+
+section {
+   background: rgb(190, 40, 200);
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+   justify-content: center;
+} 
+
+.chamada-texto {
+  margin-right: 3%;
+}
+
+h1 {
+   font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
